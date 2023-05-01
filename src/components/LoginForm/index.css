@@ -1,0 +1,40 @@
+/* Write your CSS code here */
+.website-login-image {
+  height: 300px;
+  width: 300px;
+}
+.login-website-logo {
+  height: 100px;
+  width: 300px;
+}
+.login-form-container {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  min-height: 100vh;
+}
+.label-input {
+  font-weight: 600;
+  color: #475569;
+}
+.form-input {
+  height: 50px;
+  width: 300px;
+  background-color: #e2e8f0;
+  border: 0px;
+  padding-left: 20px;
+  margin-top: 10px;
+  margin-bottom: 15px;
+}
+.login-page-btn {
+  width: 300px;
+  background-color: #0b69ff;
+  color: #ffffff;
+  border: 0px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: 10px;
+}
+.error-msg {
+  color: red;
+}
